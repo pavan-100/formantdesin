@@ -1,0 +1,9 @@
+a{
+    color:red;
+}
+a:hover{
+    color: rgb(22, 211, 164);
+}
+ nz-table tbody tr:hover td{
+background-color: red;
+}
